@@ -34,11 +34,10 @@ Source: https://www.kaggle.com/datasets/mohamedhanyyy/top-football-leagues-score
 - **Python**
 - **Pandas** — data cleaning & processing
 - **Matplotlib / Seaborn** — visualization
-- **Jupyter Notebook / Google Colab** — interactive analysis
+- **Google Colab** — interactive analysis
 
 ---
 
 ## 📷 Preview
-*(Replace `images/preview.png` with your actual plot image)*
 
 ![Scatter Plot Preview](images/завантаження (57).png)
