@@ -40,4 +40,4 @@ Source: https://www.kaggle.com/datasets/mohamedhanyyy/top-football-leagues-score
 
 ## 📷 Preview
 
-!(images/завантаження (57).png)
+![Scatter Plot](images/завантаження (57).png)
